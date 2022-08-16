@@ -1,0 +1,4 @@
+venv/
+dummy.py
+
+*.pyc
